@@ -9,8 +9,8 @@ Faça o download e instale a versão LTS do Node.js no site oficial: Node.js.
 Certifique-se de que os comandos node e npm estão disponíveis no terminal.
 
 Digite o comando no terminal:
-node -v
-npm -v
+-----node -v ------
+-----npm -v ------
 
 <h3 *SASS*
 
@@ -69,5 +69,5 @@ Login e Senha
 
 Usuário Administrador:
 
-<h4Login: admin
-<h4Senha: 12345
+Login: admin
+Senha: 12345
