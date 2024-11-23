@@ -1,7 +1,7 @@
-<h1 Sistema Vida+ \h1>
-<h2 Pré-requisitos /h2>
+<h1 Sistema Vida+ 
+<h2 Pré-requisitos 
 
-Antes de iniciar, certifique-se de ter as seguintes tecnologias instaladas em sua máquina:
+<h4 Antes de iniciar, certifique-se de ter as seguintes tecnologias instaladas em sua máquina:
 
 *Node.js*
 
