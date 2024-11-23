@@ -3,7 +3,7 @@
 
 <h4 Antes de iniciar, certifique-se de ter as seguintes tecnologias instaladas em sua máquina:
 
-*Node.js*
+<h3 *Node.js*
 
 Faça o download e instale a versão LTS do Node.js no site oficial: Node.js.
 Certifique-se de que os comandos node e npm estão disponíveis no terminal.
@@ -12,12 +12,12 @@ Digite o comando no terminal:
 node -v
 npm -v
 
-*SASS*
+<h3 *SASS*
 
 Digite o comando no terminal
 *npm install -g sass*
 
-Framework para criar o servidor:
+<h3 Framework para criar o servidor:
 
 *npm install express*
 
@@ -34,7 +34,7 @@ Após clonar o projeto, execute o seguinte comando para instalar todas as depend
 <h4 Clone este repositório no seu computador usando:
 
 git clone * https://github.com/raquelsilveiraa/Sistema-Vida-.git *
-/h4>
+
 
 Acesse o Diretório do Projeto
 
