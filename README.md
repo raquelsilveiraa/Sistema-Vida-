@@ -1,9 +1,9 @@
-<h1 Sistema Vida+ 
-<h2 Pré-requisitos 
+ Sistema Vida+ 
+ Pré-requisitos 
 
-<h4 Antes de iniciar, certifique-se de ter as seguintes tecnologias instaladas em sua máquina:
+ Antes de iniciar, certifique-se de ter as seguintes tecnologias instaladas em sua máquina:
 
-<h3 *Node.js*
+*Node.js*
 
 Faça o download e instale a versão LTS do Node.js no site oficial: Node.js.
 Certifique-se de que os comandos node e npm estão disponíveis no terminal.
